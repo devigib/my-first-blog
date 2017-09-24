@@ -25,7 +25,7 @@ SECRET_KEY = 'ceg&26$7f1hlr&rc=e)9y=))v+#s4y@yzcrynmt@qp+f7v5sk+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'devi_gib.pythonanywhere.com', 'devigib.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'devigib.pythonanywhere.com']
 
 
 # Application definition
